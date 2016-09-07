@@ -3,4 +3,4 @@ name:
    first: Kelly
    last: Zhang
 email: kz918@nyu.edu
-leaderboard: kellywzhang
+leaderboard: kellyzhang
