@@ -1,0 +1,55 @@
+Using base path: /Users/Kelly/Documents/StatNLP/assignments/data1
+Using model: baseline
+HUB Perplexity:  1550.5063043822677
+HUB Word Error Rate: 0.09108653220559532
+
+Generated Sentences:
+  [dollars, associates, to, than, senate, and, approached, restraints, buying, s., for, t., planning, president, the, crazy, prices, discipline, incorporated, merge, year, l., the, and, the, you, based, believes, company, for, lower, stanley, the, million, boxes, sale, securities, the, paul, had, billion, contract, raise, nationwide, centers, dole, bonds, so, about, performing, sardina, the, address]
+  [billion, bomber]
+  [gas, payments, rest, has]
+  [to, five, visit, at, h., international, many, the, did, tightened, to, handed, now, the, in, about, move, million, earnings, c., will, dollars, bond]
+  [shosha, ca, results, six, money, the, policies, with, motors, off, term]
+  [videocassettes, some]
+  [in, wednesday, at, the, is, resolved, right, the, in, a, 's, nine, for, at, deals, said, all, to, thousand, maximum, while, the, at, conviction, credentials, come, c., it, leading, strategies, old, prepayments, eight, committee, to, none, soviet, did, businesses, locations, eighty, eight, pulp, us, because, ties, estimates, recent, not, who, would, injured, oh, and, sold, corners, and, significant, one, thirty, thing, it, worth, the, but, street, saturday, include, average, ninety, f., dollars, drug, of, the, million, concern, two, either, as, stock, of, including, week, the, the, significance, their, cost, pay, the, customs, to, yesterday, to, limiting, million, of, ninety, defensible, of, much, composite, always, of, but, the, their, has, and, the, nineteen, adobe, achievement]
+  [venture, stock, fifty, are, with, thousand, is, effectively, one, refused, sale, the, among, compensate, than, the, all, of, of, company, industrial, that]
+  [and, with, were, nineteen, said, next, of, at, should, university, cast, too, of, discretionary, is, general, industry, reviewing, and, conditions, a, something, complaints, out, rules, cut, role, his, fifty, percent, five, employers, trading, offered, tax, filed, to, will, of, an]
+  [because, a, beefed, reductions, holdings, a, most, mr., it, when, year, little, relief, managing, but, whether, and, court, he]
+
+  Using base path: /Users/Kelly/Documents/StatNLP/assignments/data1
+Using model: trigram
+Lambda1 = 0.28
+Lambda2 = 0.64
+HUB Perplexity:  443.8801372868489
+HUB Word Error Rate: 0.05985686402081978
+
+Generated Sentences:
+  [<S>, <S>, the, venture, of, japan, 's, fifty, million, dollars, of, stocks, hitting, new, highs, or, lows, </S>]
+  [<S>, <S>, sumitomo, metal, mining, fell, five, points, </S>]
+  [<S>, <S>, we, have, the, plane, on, time, </S>]
+  [<S>, <S>, these, nations, known, as, twiggy, </S>]
+  [<S>, <S>, raymond, weber, </S>]
+  [<S>, <S>, but, some, japanese, government, does, its, successful, offerings, </S>]
+  [<S>, <S>, people, in, nineteen, eighty, four, panamanian, elections, for, the, next, increase, in, the, bridge, and, road, builders, had, a, loss, of, nine, hundred, twenty, million, swiss, francs, seven, hundred, thirty, six, percent, interest, in, a, settlement, with, its, creditors, </S>]
+  [<S>, <S>, mr., boren, might, even, be, tried, in, court, officials, decline, to, comment, on, rumors, of, one, common, share, </S>]
+  [<S>, <S>, it, 's, easy, for, these, funds, </S>]
+  [<S>, <S>, when, thomas, w., wathen, went, big, league, take, out, artist, said, airline, analyst, kevin, murphy, of, morgan, stanley, &, co, </S>]
+
+  Using base path: /Users/Kelly/Documents/StatNLP/assignments/data1
+Using model: quadgram
+Lambda1 = 0.35
+Lambda2 = 0.21
+Lambda3 = 0.39
+HUB Perplexity:  582.7854233930698
+HUB Word Error Rate: 0.05920624593363696
+
+Generated Sentences:
+  [<S>, <S>, <S>, the, stock, fell, three, quarters, to, ten, </S>]
+  [<S>, <S>, <S>, beyond, that, many, big, oil, chemical, and, airline, companies, are, siphoning, off, big, chunks, of, strip, property, for, what, may, turn, into, another, wave, of, building, </S>]
+  [<S>, <S>, <S>, organized, crime, strike, forces, is, expected, to, close, within, about, twenty, days, the, company, added, </S>]
+  [<S>, <S>, <S>, the, merger, requires, the, approval, of, the, scheme, from, more, senior, sperry, officials, because, the, payment, which, mr, tomlin, requested, was, so, large, </S>]
+  [<S>, <S>, <S>, but, the, broader, nasdaq, bank, index, fell, five, point, eight, million, dollars, in, loan, loss, reserves, are, n't, looking, for, tax, exempt, income, </S>]
+  [<S>, <S>, <S>, father, trabold, often, uses, what, he, calls, a, therapeutic, exorcism, a, few, prayers, and, an, admonition, to, the, spirit, to, leave, </S>]
+  [<S>, <S>, <S>, still, radio, shack, is, aware, that, a, hostile, tender, offer, </S>]
+  [<S>, <S>, <S>, at, the, moment, </S>]
+  [<S>, <S>, <S>, while, sipping, a, beer, after, practice, he, vividly, recounts, getting, the, red, sox, 's, carl, yastrzemski, to, pop, out, to, end, the, preference, that, the, federal, officials, would, not, negligently, cause, the, deterioration, of, independent, american, had, relinquished, his, control, in, april, by, taking, over, from, mr., berry, as, chairman, </S>]
+  [<S>, <S>, <S>, in, nineteen, eighty, seven, that, the, dow, jones, industrial, average, which, fell, twenty, one, point, six, one, percent, respectively, the, week, before, christmas, </S>]
